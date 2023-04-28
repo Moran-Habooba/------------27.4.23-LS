@@ -1,0 +1,43 @@
+.main_title {
+  text-align: center;
+  color: blue;
+}
+body {
+  background-image: url(./yellow-subtle-soft-diamonds-v1371558.png);
+  font-family: cursive;
+}
+.label,
+#label2 {
+  font-size: 25px;
+  font-weight: 700;
+  color: rgb(12, 216, 80);
+}
+.container {
+  text-align: center;
+  margin: 50px;
+}
+
+#save_btn,
+#clear_btn2,
+#view_visitors {
+  color: rgb(148, 11, 132);
+  background-color: rgb(212, 167, 223);
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+#clear_btn {
+  color: rgb(148, 11, 132);
+  background-color: rgb(212, 167, 223);
+  font-size: 18px;
+  font-weight: 600;
+}
+input:focus {
+  background-color: rgb(25, 192, 248);
+  font-weight: 600;
+}
+input {
+  width: 200px;
+  height: 25px;
+  font-size: 15px;
+}
